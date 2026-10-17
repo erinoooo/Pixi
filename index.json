@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "serial": 1,
+  "generated_at": 1792261472,
+  "expires_at": 1793471072,
+  "apps": [
+    {
+      "id": "drav",
+      "version": "0.1.0",
+      "min_hub": "0.1.0",
+      "title": "Drav",
+      "summary": "Draw and paint with brushes and layers",
+      "category": "Creativons",
+      "emblem": "drav",
+      "url": "packages/drav/0.1.0.pixiapp",
+      "size": 10690,
+      "sha256": "7141514e780fc79a4ce1f77452149c6c581a9cd803bd99934af598390e5b0274"
+    }
+  ]
+}
